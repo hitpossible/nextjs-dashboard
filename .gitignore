@@ -1,0 +1,11 @@
+# Node.js
+node_modules/
+
+# Production build
+/.next/
+
+# Environment variables
+.env
+
+# Log files
+*.log
